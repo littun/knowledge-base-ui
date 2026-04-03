@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+/* Custom CSS variables for our brand colors */
+:root {
+  --primary: #4F46E5;
+  --secondary: #1E1B4B;
+}
+
+/* Base body styles */
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: #f9fafb;
+}
